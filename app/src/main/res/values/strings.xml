@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Imagination</string>
+    <string name="lorem_ipsum">Lorem ipsum</string>
+    <string name="hint_video_title">Enter any video title</string>
+    <string name="title_string">Title</string>
+    <string name="year_string">Year</string>
+    <string name="genre_string">Genre</string>
+    <string name="runtime">Runtime</string>
+    <string name="lorem_ipsum_text">Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum</string>
+    <string name="actors_string">Actors</string>
+    <string name="country_string">Country</string>
+    <string name="production_string">Production</string>
+    <string name="awards_string">Awards</string>
+    <string name="language_string">Language</string>
+    <string name="type_string">Type</string>
+    <string name="released_string">Released</string>
+    <string name="label">Released</string>
+    <string name="translate_menu_label">Translate</string>
+    <string name="kazakh_title">Kazakh</string>
+    <string name="russian_title">Russian</string>
+    <string name="arabic_title">Arabic</string>
+    <string name="english_title">English</string>
+    <string name="chinese_title">Chinese</string>
+</resources>
